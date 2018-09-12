@@ -1,4 +1,8 @@
-#python to calculate number of days between to dates
+#Joshua Odubiro
+#olayemisamuel55@gmail.com
+#08162583688
+
+#python to calculate number of days between two dates
 
 from datetime import date
 def op():
